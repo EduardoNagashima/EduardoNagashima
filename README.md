@@ -1,4 +1,4 @@
-### Meu último projeto, o App *TrackIt* > [![asdasd](https://trackit-fawn.vercel.app/)]
+### Meu último projeto, o App *TrackIt* > https://trackit-fawn.vercel.app/
 
 <!--
 **EduardoNagashima/EduardoNagashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
