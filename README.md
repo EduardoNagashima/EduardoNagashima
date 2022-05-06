@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop">
 
 <p align="left">
-  My name is Eduardo (he/his) and I am a developer in de.<br>
+  My name is Eduardo (he/his) and I am a developer in development.<br>
   I'm currently studying <strong>Web Development</strong> at Driven Education. ✨<br>
   Take a look at my projects down below!
 </p>
