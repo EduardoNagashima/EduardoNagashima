@@ -38,11 +38,11 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/nagashigg/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nagashigg/"/></a>
 </p>  
-  
+
 <details>
     <summary>GitHub Stats</summary>
     <img style="margin-right:5px" alt="Eduardo gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EduardoNagashima" />
     
 </details>
 
-### <p align="center"> Never </br> Settle! </p>
+## <p align="center"> Never </br> Settle!</p>
