@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop">
+<img src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" width="400px" align="right" alt="Laptop">
 
 <p align="left">
   My name is Eduardo (he/his) and I am a developer in development.<br>
