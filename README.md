@@ -44,3 +44,5 @@ Here are some ideas to get you started:
     <img style="margin-right:5px" alt="Eduardo gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EduardoNagashima" />
     
 </details>
+
+### <p align="center"> Never </br> Settle! </p>
