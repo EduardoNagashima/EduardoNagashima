@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" width="400px" align="right" alt="Laptop">
+<img src="https://external-preview.redd.it/g9pTl0_-Gr7mseWzujFB8u1f150wqCPvsKGR13OB9OI.jpg?auto=webp&s=22cf7a28c70abfdc5d293f30f59cbcb9ee74ded2" width="400px" align="right" alt="Laptop">
 <!--
 https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png
 https://external-preview.redd.it/g9pTl0_-Gr7mseWzujFB8u1f150wqCPvsKGR13OB9OI.jpg?auto=webp&s=22cf7a28c70abfdc5d293f30f59cbcb9ee74ded2
