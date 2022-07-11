@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://external-preview.redd.it/g9pTl0_-Gr7mseWzujFB8u1f150wqCPvsKGR13OB9OI.jpg?auto=webp&s=22cf7a28c70abfdc5d293f30f59cbcb9ee74ded2" width="400px" align="right" alt="Laptop">
+<img src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif?auto=webp&s=22cf7a28c70abfdc5d293f30f59cbcb9ee74ded2" width="400px" align="right" alt="Laptop">
 <!--
 https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png
 https://external-preview.redd.it/g9pTl0_-Gr7mseWzujFB8u1f150wqCPvsKGR13OB9OI.jpg?auto=webp&s=22cf7a28c70abfdc5d293f30f59cbcb9ee74ded2
@@ -23,8 +23,9 @@ https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif
   Take a look at my projects down below!
 </p>
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, JavaScript</strong>
-</p>
+  🦄 Languages && tools: </br></br>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+
 <!-- 
 <p align="left">
   💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
