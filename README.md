@@ -19,7 +19,7 @@ https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif
 -->
 <p align="left">
   My name is Eduardo (he/his) and I am a developer in development.<br>
-  I'm currently studying <strong>Web Development</strong> at Driven Education. ✨<br>
+  I'm currently looking for a job as <strong>Web Development.</strong> ✨<br>
   Take a look at my projects down below!
 </p>
 <p align="left">
