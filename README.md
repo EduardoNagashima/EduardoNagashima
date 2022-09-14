@@ -38,10 +38,6 @@ https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardonagashima/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5544999931650&text=Hey%20Eduardo!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512981238440&text=Hey%20Eduardo!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D"/></a>
-  <a href="https://www.facebook.com/nagashigg" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nagashigg"/></a>
-  <a href="https://www.instagram.com/nagashigg/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nagashigg/"/></a>
 </p>  
 
 <details>
