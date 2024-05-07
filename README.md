@@ -40,10 +40,4 @@ https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512981238440&text=Hey%20Eduardo!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D"/></a>
 </p>  
 
-<details>
-    <summary>GitHub Stats</summary>
-    <img style="margin-right:5px" alt="Eduardo gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EduardoNagashima" />
-    
-</details>
-
 ## <p align="center"> Never </br> Settle!</p>
